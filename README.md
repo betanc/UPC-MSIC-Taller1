@@ -2,6 +2,6 @@
 Taller 1 - seguridad en bases de datos
 
 Grupo: Ricardo Rodriguez
-       German Beltran
+       German Dario Beltran
        Hector Mauricio Bohorquez
        Diego Mosquera
